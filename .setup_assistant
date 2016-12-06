@@ -1,0 +1,8 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: tra1
+    relative_path: urdf/tra1.xacro
+  SRDF:
+    relative_path: config/rrbot.srdf
+  CONFIG:
+    generated_timestamp: 1480984750
